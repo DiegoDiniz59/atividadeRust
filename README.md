@@ -10,9 +10,9 @@ UC: Estruturas de Dados e Análise de Algoritmos
 
 * José Mourão / RA: 121116938
 * Gabriel Gontijo / RA: 121118394 
-* Lucas Pina / RA: 121116933
+* Lucas Pina / RA: 121119298
 * Diego Diniz / RA: 12119820
-* Rafael Bastos / RA: 121119298
+* Rafael Bastos / RA: 121116933
 
 # Objetivos do Trabalho
 
